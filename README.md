@@ -4,8 +4,8 @@
 <p align="left">  </p>
 <img align="right" alt="profil" width="250" height="400" src="profil.png">
 
-- 😄 Pronouns 
-<h2 align="center">Keep Never Tired Learning</h2>
+
+<h2 align="center">- 😄 Pronouns Keep Never Tired Learning</h2>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
