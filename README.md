@@ -2,7 +2,7 @@
 <h3 align="center"> Hanya Seorang Hamba Allah Yang Banyak Dosa.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="profil" /> </p>
-<img align="right" alt="profil" width="250" height="400" src="">
+<img align="right" alt="profil" width="250" height="400" src="profil.jpg">
 
 - 😄 Pronouns 
 <h2 align="center">Nothing Last Forever We Can Change The Future</h2>
