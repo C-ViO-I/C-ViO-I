@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman Hafidz</h1>
 <h3 align="center"> Hanya Seorang Hamba Allah Yang Banyak Dosa.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="byu.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="profil" /> </p>
+<img align="right" alt="profil" width="250" height="400" src="">
 
 - 😄 Pronouns 
 <h2 align="center">Nothing Last Forever We Can Change The Future</h2>
@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=C-ViO-I&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=C-ViO-I&show_icons=true&locale=en" alt="bayu1s" /></p>
-
+<P>
 ## 👀 I’m interested in 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=1lXaKEy97qE">
@@ -61,3 +61,4 @@
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
+</P>
